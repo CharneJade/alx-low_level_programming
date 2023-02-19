@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: 0
+ * Return: 0 (Success)
  *
  */
 int main(void)
@@ -16,7 +16,7 @@ int main(void)
 		(d < 10) {
 			putchar(d + '0');
 			d++;
-		}	
+		}
 	while
 		(c <= 'f') {
 			putchar(c);
